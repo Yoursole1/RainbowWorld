@@ -1,0 +1,5 @@
+name: MiniPlugin
+version: '${version}'
+main: me.yoursole.miniplugin.MiniPlugin
+api-version: 1.19
+authors: [ Yoursole ]
